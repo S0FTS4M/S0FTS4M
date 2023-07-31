@@ -18,8 +18,7 @@ I am developing 3D/2D games with Unity<br>I am always learning new things
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=s0fts4m&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
-
 ---
 [![](https://visitcount.itsvg.in/api?id=s0fts4m&icon=6&color=12)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
